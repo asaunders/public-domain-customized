@@ -1,7 +1,7 @@
 public-domain-customized
 ========================
 
-The Creative Commons Public Domain Dedication tool ("CC0") permanently dedicates works covered by copyright, database right, and personality right laws to the public domain. By placing a work under CC0, the dedicator irrevocably waives all of their privileges under these legal regimes. Should that waiver not be possible due to the idiosyncrasies of a particular jurisdiction's laws, then the dedicator provides an irrevocable, all-permissive license under the applicable laws (i.e. copyright, database right, and/or personality right laws).
+The Creative Commons Public Domain Dedication tool ("CC0") permanently dedicates works covered by copyright, database right, and publicity right laws to the public domain. By placing a work under CC0, the dedicator irrevocably waives all of their privileges under these legal regimes. Should that waiver not be possible due to the idiosyncrasies of a particular jurisdiction's laws, then the dedicator provides an irrevocable, all-permissive license under the applicable laws (i.e. copyright, database right, and/or publicity right laws).
 
 The license text itself is a fantastic piece of legal writing. This project seeks to provide modified versions of CC0 to better address specific use cases. In particular:
 
