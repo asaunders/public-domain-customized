@@ -13,7 +13,11 @@ b) CC0 does not provide any options for "Dedicator Requests". For example, a pot
 
 Providing a set of different "Dedicator Requests" that dedicators could choose from could address the needs of dedicators that want to donate works to the public domain, while still making demands of recipients, albeit demands based entirely on ethical expectations and an "honour system", rather than the threat of litigation.
 
-Pull requests are welcome!
+Pull requests are welcome! 
+
+LICENSE: This project is dedicated to the public domain under CC0, as can be found in the LICENSE file. If you 
+send me a pull request specifically for inclusion in this repository, then you agree that your pull request is dedicated
+to the public domain under CC0.
 
 NOTE 1: None of these license texts should be used as a license until further notice! These texts are works in development and are not ready for use by the general public.
 
